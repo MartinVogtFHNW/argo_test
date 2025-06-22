@@ -1,0 +1,7 @@
+apiVersion: v2
+name: slurm-wrapper
+version: 0.1.0
+dependencies:
+  - name: slurm
+    version: 0.3.0
+    repository: oci://ghcr.io/slinkyproject/charts
