@@ -497,7 +497,7 @@ compute:
       #
       # -- (integer)
       # Set the number of replicas to deploy.
-      replicas: 2
+      replicas: 1
       #
       # -- (string)
       # Set the image pull policy.
